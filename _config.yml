@@ -5,8 +5,8 @@ highlighter:      rouge
 # Setup
 title:            ZooMS Community
 tagline:          'Resources for the ZooMS community'
-description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
-url:              https://fongandrew.github.io
+description:      'Resources for the ZooMS community'
+url:              https://github.com/ZooMS-Community/ZooMS-Community-hub
 baseurl:          '/hydeout'
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
