@@ -14,7 +14,7 @@ Zooarchaeology by mass spectrometry, or ZooMS, is a powerful application of coll
 </p>
 <h2>What is the taxonomic resolution of ZooMS</h2>
 <p>
-  Because ZooMS is based on a single relatively conserved protein, it provides less taxonomic resolution than genomic or proteomic methods. Nevertheless, its low cost and scalability make it a valuable tool for rapidly assessing large assemblages. ZooMS analysis can typically resolve fish to the level of species or genus; mammals to the level of genus or family; and birds to the level of family or order. Differences in taxonomic resolution are related to differences in the proteins making up the collagen triple helix in these three groups, as well as differing functional constraints on collagen evolution related to body temperature and mechanical stress.
+  Because ZooMS is based on a single relatively conserved protein, it provides less taxonomic resolution than genomic or other proteomic methods. Nevertheless, its low cost and scalability make it a valuable tool for rapidly assessing large faunal assemblages. ZooMS analysis can typically resolve fish to the level of species or genus; mammals to the level of genus or family; and birds to the level of family or order. Differences in taxonomic resolution are related to differences in the proteins making up the collagen triple helix in these three groups, as well as differing functional constraints on collagen evolution related to body temperature and mechanical stress.
 </p>
 <h2>What are the challenges of ZooMS?</h2>
 <p>
