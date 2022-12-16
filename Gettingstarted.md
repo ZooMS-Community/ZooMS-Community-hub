@@ -4,7 +4,7 @@ title: Getting Started
 sidebar_link: true
 ---
 
-<img align="center" src="assets/images/COL1A2.png">
+<img align="center" src="assets/images/COL1A1.png">
 
 <h2>Welcome to ZooMS!</h2>
 This page is for people who are new to ZooMS and would like assistance getting started. Before beginning, there are several primers and reviews available that explain the basic principles of ZooMS. We recommend reading these before proceeding further:
