@@ -27,11 +27,14 @@ Zooarchaeology by mass spectrometry, or ZooMS, is a powerful application of coll
 <h2>Want to learn more?</h2>
 <p>
 Buckley M, Collins M, Thomas-Oates J, Wilson JC (2009) Species identification by analysis of bone collagen using matrix-assisted laser desorption/ionisation time-of-flight mass spectrometry. Rapid Communications in Mass Spectrometry 23:3843–3854.
-
+</p>
+<p>
 Collins M, Buckley M, Grundy HH, Thomas-Oates J, Wilsona J, & van Doorna N. (2010). ZooMS: the collagen barcode and fingerprints. Spectroscopy Europe 22(2):6-10. 
-
+</p>
+<p>
 Richter KK, Codlin MC, Seabrook M, Warinner C.(2022) [A primer for ZooMS applications in archaeology](https://www.pnas.org/doi/abs/10.1073/pnas.2109323119). Proceedings of the National Academy of Sciences 119(20):e2109323119.
-
+</p>
+<p>
 Warinner C, Korzow Richter K, Collins MJ. (2022) [Paleoproteomics](https://pubs.acs.org/doi/full/10.1021/acs.chemrev.1c00703). Chemical Reviews 122(16):13401-46.
 </p>
-<i>See also a more comprehensive [publications list](/Publications.md)</i>
+<i>For further information, see our more comprehensive [publications list](/Publications.md)</i>
