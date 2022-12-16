@@ -29,4 +29,4 @@ Richter KK, Codlin MC, Seabrook M, Warinner C.(2022) [A primer for ZooMS applica
 
 Warinner C, Korzow Richter K, Collins MJ. (2022) [Paleoproteomics](https://pubs.acs.org/doi/full/10.1021/acs.chemrev.1c00703). Chemical Reviews 122(16):13401-46.
 
-See also a more comprehensive [publications list](/Publications.md)
+*See also a more comprehensive [publications list](/Publications.md)*
