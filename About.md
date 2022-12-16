@@ -4,7 +4,7 @@ title: About
 sidebar_link: true
 ---
 
-<img align="center" src="/assets/images/COL1A2.png">
+<img align="center" src="assets/images/COL1A2.png">
 
 <h2>ZooMS</h2>
 <p>
