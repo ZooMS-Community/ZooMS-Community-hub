@@ -35,6 +35,6 @@ Collins M, Buckley M, Grundy HH, Thomas-Oates J, Wilsona J, & van Doorna N. (201
 Richter KK, Codlin MC, Seabrook M, Warinner C.(2022) [A primer for ZooMS applications in archaeology](https://www.pnas.org/doi/abs/10.1073/pnas.2109323119). Proceedings of the National Academy of Sciences 119(20):e2109323119.
 </p>
 <p>
-Warinner C, Korzow Richter K, Collins MJ. (2022) [Paleoproteomics](https://pubs.acs.org/doi/full/10.1021/acs.chemrev.1c00703). Chemical Reviews 122(16):13401-46.
+Warinner C, Richter KK, Collins MJ. (2022) [Paleoproteomics](https://pubs.acs.org/doi/full/10.1021/acs.chemrev.1c00703). Chemical Reviews 122(16):13401-46.
 </p>
 <i>For further information, see our more comprehensive [publications list](/Publications.md).</i>
