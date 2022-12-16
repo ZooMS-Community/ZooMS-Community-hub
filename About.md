@@ -13,6 +13,7 @@ Zooarchaeology by mass spectrometry, or ZooMS, is a powerful application of coll
 <p>
   ZooMS can be used on any collagenous animal tissue. Common archaeological remains and cultural heritage objects that contain collagen include bone, cartilage, antler, horn cores (but not horn itself), tooth dentine and cementum, ivory, parchment, leather, bird and reptile eggshells, fish scales, and composite tools or artwork containing sinews, animal glues, or animal binders.
 </p>
+<img align="center" src="assets/images/tissues.png">
 <h2>What is the taxonomic resolution of ZooMS</h2>
 <p>
   Because ZooMS is based on a single relatively conserved protein, it provides less taxonomic resolution than genomic or other proteomic methods. Nevertheless, its low cost and scalability make it a valuable tool for rapidly assessing large faunal assemblages. ZooMS analysis can typically resolve fish to the level of species or genus; mammals to the level of genus or family; and birds to the level of family or order. Differences in taxonomic resolution are related to differences in the proteins making up the collagen triple helix in these three groups, as well as differing functional constraints on collagen evolution related to body temperature and mechanical stress.
