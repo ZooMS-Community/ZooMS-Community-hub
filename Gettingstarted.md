@@ -47,7 +47,7 @@ Within many collagenous tissues, such as bone, COL1 is the most abundant protein
 9. COL1A 978-990    
 
 <img align="center" src="assets/images/bovid-compare.png">
-<i>Above is an example of how domestic sheep (Ovis aries) and goats (Capra hircus)can be distinguished from wild springbok (Antidorcas marsupialis) using the COL1A2 502-519 marker peptide. Springbok has a threonine (T) where sheep and goat have an alanine (A), resulting in the springbok COL1A2 502-519 marker peptide having a 30 Da lower m/z.  </i>
+<i>Example of how domestic sheep (Ovis aries) and goats (Capra hircus)can be distinguished from wild springbok (Antidorcas marsupialis) using the COL1A2 502-519 marker peptide. Springbok has a threonine (T) where sheep and goat have an alanine (A), resulting in the springbok COL1A2 502-519 marker peptide having a 30 Da lower m/z.  </i>
 
 <p></p>
 <h2>Nomenclature</h2>
