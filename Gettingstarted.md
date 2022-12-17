@@ -21,6 +21,8 @@ ZooMS focuses on the peptide mass fingerprinting of type I collagen (COL1), a la
 <img align="center" src="assets/images/Mammalian-collagen.png">
 <i>Schematic of mammalian collagen illustrating the hierarchical structure of type I collagen. Three COL1a chains twist together to form a triple helix. These then bundle together to form microfibrils, and microfibrils bundle together to form fibrils, and fibrils bundle together to form fibers.</i> 
 
+<p style="font-family:Courier; color:Gray; font-size: 12px;">My caption.</p>
+
 <p></p>
 The amino acid sequence of COL1 is highly structurally and functionally constrained. Each chain consists of a repeating motif of G-X-Y with glycine (G), the smallest amino acid, fitting into the central core of the rotating triple helix. The remaining X and Y amino acid positions are disproportionately made up of proline and hydroxyproline, respectively, the latter being a posttranslational modification (PTM) of proline rarely found outside of collagens. Hydroxyprolines stabilize the triple helix through hydrogen bonding and can be always present (fixed modification) or variably present (variable modification) at a given amino acid position. Amino acids with bulky functional groups are almost entirely absent from COL1 because they disrupt or prevent the formation of the triple helix. 
 
