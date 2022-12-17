@@ -8,7 +8,9 @@ sidebar_link: true
 
 <h2>ZooMS</h2>
 <p>
-Zooarchaeology by mass spectrometry, or ZooMS, is a powerful application of collagen peptide mass fingerprinting (PMF) first developed at the University of York (Buckley et al. 2009; Collins et al. 2010). Based on the measurement of tryptic collagen peptides using matrix assisted laser desorption/ionization time of flight mass spectrometer (MALDI-TOF), it leverages the high abundance and long-term preservation of collagen proteins in bone and other animal tissues with the analytical power of mass spectrometry in order to provide robust taxonomic identifications using minimally destructive methods. Since 2009, ZooMS has been used for diverse applications in archaeology and and cultural heritage, ecology and conservation, and paleontology. The key features of ZooMS that have led to its rapid expansion are its relatively low analytical cost per sample compared to other biomolecular identification methods and its low sample input requirements for taxonomic identification. This allows for large scale taxonomic investigations that can augment morphological analyses of faunal remains, as well as provide taxonomic clarity for animal remains or products lacking diagnostic features, such as worked bone artifacts and cultural heritage objects.
+Zooarchaeology by mass spectrometry, or ZooMS, is a powerful application of collagen peptide mass fingerprinting (PMF) first developed at the University of York (<a href="https://doi.org/10.1002/rcm.4316">Buckley et al. 2009</a>; <a href="https://www.spectroscopyeurope.com/system/files/pdf/MS_22_2.pdf">Collins et al. 2010</a>). Based on the measurement of tryptic collagen peptides using matrix assisted laser desorption/ionization time of flight mass spectrometer (MALDI-TOF), it leverages the high abundance and long-term preservation of collagen proteins in bone and other animal tissues with the analytical power of mass spectrometry in order to provide robust taxonomic identifications using minimally destructive methods. 
+  
+Since 2009, ZooMS has been used for diverse applications in archaeology and and cultural heritage, ecology and conservation, and paleontology (<a href="https://www.pnas.org/doi/abs/10.1073/pnas.2109323119">Richter et al. 2022</a>; <a href="https://pubs.acs.org/doi/full/10.1021/acs.chemrev.1c00703">Warinner et al. 2022</a>). The key features of ZooMS that have led to its rapid expansion are its relatively low analytical cost per sample compared to other biomolecular identification methods and its low sample input requirements for taxonomic identification. This allows for large scale taxonomic investigations that can augment morphological analyses of faunal remains, as well as provide taxonomic clarity for animal remains or products lacking diagnostic features, such as worked bone artifacts and cultural heritage objects.
   </p>
 <h2>What can be analyzed with ZooMS?</h2>
 <p>
@@ -27,17 +29,3 @@ Zooarchaeology by mass spectrometry, or ZooMS, is a powerful application of coll
 <p>
   We are a diverse group of researchers committed to devloping resources to support the broader ZooMS community. We were founded in 2022 by Kristine Richter and Christina Warinner to provide an open access platform for sharing resources and materials related to ZooMS analysis and training. 
 </p>
-<h2>Want to learn more?</h2>
-<p>
-Buckley M, Collins M, Thomas-Oates J, Wilson JC (2009) <a href="https://doi.org/10.1002/rcm.4316">Species identification by analysis of bone collagen using matrix-assisted laser desorption/ionisation time-of-flight mass spectrometry</a>. Rapid Communications in Mass Spectrometry 23:3843–3854.
-</p>
-<p>
-Collins M, Buckley M, Grundy HH, Thomas-Oates J, Wilsona J, van Doorna N. (2010). <a href="https://www.spectroscopyeurope.com/system/files/pdf/MS_22_2.pdf">ZooMS: the collagen barcode and fingerprints</a>. Spectroscopy Europe 22(2):6-10. 
-</p>
-<p>
-Richter KK, Codlin MC, Seabrook M, Warinner C.(2022) <a href="https://www.pnas.org/doi/abs/10.1073/pnas.2109323119">A primer for ZooMS applications in archaeology</a>. Proceedings of the National Academy of Sciences 119(20):e2109323119.
-</p>
-<p>
-Warinner C, Richter KK, Collins MJ. (2022) <a href="https://pubs.acs.org/doi/full/10.1021/acs.chemrev.1c00703">Paleoproteomics</a>. Chemical Reviews 122(16):13401-46.
-</p>
-<i>For further information, see our more comprehensive <a href="/Publications.md">publications list</a>.</i>
