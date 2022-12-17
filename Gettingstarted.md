@@ -19,7 +19,9 @@ https://doi.org/10.1021/acs.chemrev.1c00703">Paleoproteomics</a>. Chemical Revie
 ZooMS focuses on the peptide mass fingerprinting of type I collagen (COL1), a large triple helical protein found in a wide variety of animal tissues. At the molecular level, COL1 consists of a triple helix made up of three polypeptide α-chains (COL1A). In tetrapods, the triple helix is heterotrimeric, composed of two identical COL1A1 chains and one COL1A2 chain. In teleost fish, it is made up of three different chains (COL1A1, COL1A2, COL1A3), while a small number of species, such as the unicellular hydra, have homotrimeric COL1 composed of three COL1A1 chains. 
 
 <img align="center" src="assets/images/Mammalian-collagen.png">
+<i>Schematic of mammalian collagen illustrating the hierarchical structure of type I collagen. Three COL1a chains twist together to form a triple helix. These then bundle together to form microfibrils, and microfibrils bundle together to form fibrils, and fibrils bundle together to form fibers.</i> 
 
+<p></p>
 The amino acid sequence of COL1 is highly structurally and functionally constrained. Each chain consists of a repeating motif of G-X-Y with glycine (G), the smallest amino acid, fitting into the central core of the rotating triple helix. The remaining X and Y amino acid positions are disproportionately made up of proline and hydroxyproline, respectively, the latter being a posttranslational modification (PTM) of proline rarely found outside of collagens. Hydroxyprolines stabilize the triple helix through hydrogen bonding and can be always present (fixed modification) or variably present (variable modification) at a given amino acid position. Amino acids with bulky functional groups are almost entirely absent from COL1 because they disrupt or prevent the formation of the triple helix. 
 
 <img align="center" src="assets/images/COL1A2-rollout.png">
