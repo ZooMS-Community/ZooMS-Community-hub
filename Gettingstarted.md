@@ -35,7 +35,16 @@ Because of the functional constraints of COL1, the protein evolves slowly. ZooMS
 
 <p></p>
 <h2>Marker peptides</h2>
-Within many collagenous tissues, such as bone, COL1 is the most abundant protein present. ZooMS extraction protocols are optimized to preferentially recover collagen over other proteins, resulting in an extraction product that is overwhelmingly COL1. Prior to analysis by MALDI-TOF mass spectrometry, the collagen is digested with an enzyme, typically trypsin, that cuts the protein at predictable locations to produce smaller peptides. Amino acid sequence differences between taxa result in peptides of different mass that are observed as peaks with different m/z. Using a reference database, it is possible to associate these peaks with specific sequences, thereby allowing taxonomic identification. Peptides that are known to produce good discrimination between taxa are called marker peptides. Prior to becoming marker peptides, candidate peptides are first validated using LC-MS/MS to confirm their amino acid sequence. There are currently 9 mammalian marker peptides in widespread use: COL1A1 508-519, COL1A1 586-618, COL1A2 292-309, COL1A2 454-483, COL1A2 484-498, COL1A2 502-519, COL1A2 757-789, COL1A2 793-816, COL1A 978-990.    
+Within many collagenous tissues, such as bone, COL1 is the most abundant protein present. ZooMS extraction protocols are optimized to preferentially recover collagen over other proteins, resulting in an extraction product that is overwhelmingly COL1. Prior to analysis by MALDI-TOF mass spectrometry, the collagen is digested with an enzyme, typically trypsin, that cuts the protein at predictable locations to produce smaller peptides. Amino acid sequence differences between taxa result in peptides of different mass that are observed as peaks with different m/z. Using a reference database, it is possible to associate these peaks with specific sequences, thereby allowing taxonomic identification. Peptides that are known to produce good discrimination between taxa are called marker peptides. Prior to becoming marker peptides, candidate peptides are first validated using LC-MS/MS to confirm their amino acid sequence. There are currently 9 mammalian marker peptides in widespread use: 
+&emsp; 1. COL1A1 508-519 
+&emsp; 2. COL1A1 586-618 
+&emsp; 3. COL1A2 292-309
+&emsp; 4. COL1A2 454-483
+&emsp; 5. COL1A2 484-498
+6. COL1A2 502-519
+7. COL1A2 757-789
+8. COL1A2 793-816
+9. COL1A 978-990    
 
 <img align="center" src="assets/images/bovid-compare.png">
 <i>Above is an example of how domestic sheep (Ovis aries) and goats (Capra hircus)can be distinguished from wild springbok (Antidorcas marsupialis) using the COL1A2 502-519 marker peptide. Springbok has a threonine (T) where sheep and goat have an alanine (A), resulting in the springbok COL1A2 502-519 marker peptide having a 30 Da lower m/z.  </i>
