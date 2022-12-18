@@ -4,4 +4,4 @@ title: Get involved
 sidebar_link: true
 ---
 
-Want to get involved in the ZooMS community? Please contact Kristine Richter for more information about how you can contribute to our <a href="https://github.com/ZooMS-Community/ZooMS-Community-Resources">ZooMS Community github repository</a>. 
+Want to get involved in the ZooMS community? Please join us on github (<a href="https://github.com/ZooMS-Community">https://github.com/ZooMS-Community</a> and contribute to the development of ZooMS Community resources! Contact Kristine Richter for more information about how you can get involved. 
