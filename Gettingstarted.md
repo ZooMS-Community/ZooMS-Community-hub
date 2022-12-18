@@ -71,4 +71,5 @@ A schematic showing the numbering system is shown below. The full collagen prote
 <img align="center" src="assets/images/COL-numbering.jpg">
 <i>Structure of the COL1 protein. Signal peptide is not shown. Propeptides are indicated by gray bars. Selected marker peptides are indicated by pink bars. Enlarged areas of the spectra show the start of the mature peptide, the N-terminal telopeptide, and the start of the helical region. Tryptic cut sites are highlighted in yellow. Image from <a href="https://doi.org/10.1016/j.jprot.2020.104041">Brown et al. 2021</a>.</i> 
 
+<p></p>
 For further information about changes in nomenclature through time and for advice on interconverting between systems, see <a href="https://doi.org/10.1016/j.jprot.2020.104041">Brown et al. 2021</a>.
