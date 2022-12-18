@@ -5,7 +5,7 @@ sidebar_link: true
 ---
 
 <h3>mMass</h3>
-The predominant software used for ZooMS analysis is the free and open source software <b>mMass</b>. Although the software can still be downloaded, it is unfortunately no longer being developed or supported. Recently, efforts have been made to keep mMass available and compatible with new computer operating systems (through the European Research Council FINDER project and the Warinner Lab), but additional community support is needed. 
+The primary software used for ZooMS analysis is the free and open source software <b>mMass</b>. Although the software can still be downloaded, it is unfortunately no longer being developed or supported. Recently, efforts have been made to keep mMass available and compatible with new computer operating systems (through the European Research Council FINDER project and the Warinner Lab), but additional community support is needed. 
 
 - Available at: <a href="http://www.mmass.org">http://www.mmass.org</a>
 - Updates available at: <a href="https://github.com/dreamingspires/mMass">https://github.com/dreamingspires/mMass</a>
