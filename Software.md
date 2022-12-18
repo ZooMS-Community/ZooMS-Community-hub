@@ -14,7 +14,7 @@ The predominant software used for ZooMS analysis is the free and open source sof
 - Citation: Strohalm M, Hassman M, Košata B, Kodíček M (2008) <a href="https://www.doi.org/10.1002/rcm.3444">mMass Data Miner: an Open Source Alternative for Mass Spectrometric Data Analysis</a>. Rapid Commun Mass Spec 22(6): 905-908.
 
 <h3>Bacollite</h3>
-The bacollite package offers a set of tools for aligning MALDI spectrum data with 'theroretical' peak positions that have been calculated from sequence and chemistry data. The alignment is carried out by cross-corelation and yields a correlation score and a lag score, both of which can be used to determine the presence or absence of a peptide in the spectrum.
+The <b>bacollite</b> package offers a set of tools for aligning MALDI spectrum data with 'theroretical' peak positions that have been calculated from sequence and chemistry data. The alignment is carried out by cross-corelation and yields a correlation score and a lag score, both of which can be used to determine the presence or absence of a peptide in the spectrum.
 
 - Available at: <a href="https://github.com/bioarch-sjh/bacollite">https://github.com/bioarch-sjh/bacollite</a>
 - Citation: S. Hickinbotham, S. Fiddyment, T. L. Stinson, M. J. Collins, <a href="https://doi.org/10.1093/bioinformatics/btaa181">How to get your goat: Automated identification of species from MALDI-ToF spectra</a>. Bioinformatics 36, 3719–3725 (2020).
