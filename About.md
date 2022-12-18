@@ -22,7 +22,7 @@ Since 2009, ZooMS has been used for diverse applications in archaeology and and 
 <p>
   Because ZooMS is based on a single relatively conserved protein, it provides less taxonomic resolution than genomic or other proteomic methods. Nevertheless, its low cost and scalability make it a valuable tool for rapidly assessing large faunal assemblages. ZooMS analysis can typically resolve and birds to the level of family or order; mammals to the level of genus or family; and fish to the level of species or genus. Differences in taxonomic resolution are related to differences in the proteins making up the collagen triple helix in these three groups, as well as differing functional constraints on collagen evolution related to body temperature and mechanical stress.
 </p>
-<img align="center" src="assets/images/ZooMS-cladogram.png">
+<img align="center" src="assets/images/ZooMS_cladogram.png">
 <i>Simplified phylogenetic tree shoing the taxonomic resolution of ZooMS for select members of Bovidae.</i>
 <h2>What are the challenges of ZooMS?</h2>
 <p>
