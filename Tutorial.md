@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Tutorial
+title: Tutorials
 sidebar_link: true
 ---
