@@ -10,7 +10,7 @@ sidebar_link: true
 This page is for people who are new to ZooMS and would like assistance getting started. Before beginning, there are several primers and reviews available that explain the basic principles of ZooMS. We recommend reading these before proceeding further:
 
 - Richter KK, Codlin MC, Seabrook M, Warinner C. 2022. <a href="https://doi.org/10.1073/pnas.2109323119">A primer for ZooMS applications in archaeology</a>. Proceedings of the National Academy of Sciences 119(20):e2109323119.
-- Buckley M. 2018. “<a href="https://doi.org/10.1007/978-3-319-64763-0_12">Zooarchaeology by mass spectrometry (ZooMS) collagen fingerprinting for the species identification of archaeological bone fragments</a>” in Zooarchaeology in Practice: Case Studies in Methodology and Interpretation in Archaeofaunal Analysis, edited by Giovas CM and LeFebvre MJ. Springer International Publishing, pp. 227–247.
+- Buckley M. 2018. <a href="https://doi.org/10.1007/978-3-319-64763-0_12">Zooarchaeology by mass spectrometry (ZooMS) collagen fingerprinting for the species identification of archaeological bone fragments</a> in Zooarchaeology in Practice: Case Studies in Methodology and Interpretation in Archaeofaunal Analysis, edited by Giovas CM and LeFebvre MJ. Springer International Publishing, pp. 227–247.
 - Warinner C, Korzow Richter K, Collins MJ. 2022. <a href="
 https://doi.org/10.1021/acs.chemrev.1c00703">Paleoproteomics</a>. Chemical Reviews 122(16):13401-46.
 - Kirby DP, Buckley M, Promise E, Trauger SA, Holdcraft TR. 2013. <a href="https://doi.org.10.1039/c3an00925d">Identification of collagen-based materials in cultural heritage</a>. Analyst 138(17):4849-58.
